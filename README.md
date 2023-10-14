@@ -14,4 +14,4 @@ modal açılıp kapanma olaylarında `framer motion` kullanıldı ve animasyonlu
 
 ## Project Gif
 
-![]()
+![](/Ekran-Kaydı-2023-10-14-12.17.52.gif)
